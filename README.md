@@ -1,6 +1,6 @@
-# PlayBloom Toys — Social Media Strategy
+# PlayBloom Toys Social Media Strategy
 
-Social media and **paid social strategy** for a children's toy brand: platform roles, content examples, funnel-based ads, sample calendar, and marketing KPIs.
+Social media and **paid social strategy** for a children's toy brand: platform roles, content examples, funnel-based ads, sample calendar and marketing KPIs.
 
 ## Download
 
@@ -9,7 +9,7 @@ Professional portfolio write-up (DOCX)
 
 ## Overview
 
-PlayBloom Toys links play with creativity, learning and skill development. The social strategy gives parents and educators a reason to follow, engage and buy—combining educational content, real play moments, product demos, social proof and targeted campaigns.
+PlayBloom Toys links play with creativity, learning and skill development. The social strategy gives parents and educators a reason to follow, engage and buy-combining educational content, real play moments, product demos, social proof and targeted campaigns.
 
 **Platforms**
 | Platform | Role |
@@ -20,15 +20,15 @@ PlayBloom Toys links play with creativity, learning and skill development. The s
 
 ## What’s inside the document
 
-1. **Executive summary** — strategic approach  
-2. **Audience** — parents (2–8), educators, education-focused parents  
-3. **Platform roles** — IG / FB / TikTok content and goals  
-4. **Content types & examples** — captions, CTAs, video flows  
+1. **Executive summary**  strategic approach  
+2. **Audience**  parents (2–8), educators, education-focused parents  
+3. **Platform roles**  IG / FB / TikTok content and goals  
+4. **Content types & examples**  captions, CTAs, video flows  
 5. **Tone of voice**  
-6. **Goals & KPIs** — awareness → advocacy  
-7. **Paid social funnel** — Awareness / Consideration / Conversion + budget split  
+6. **Goals & KPIs**  awareness → advocacy  
+7. **Paid social funnel**  Awareness / Consideration / Conversion + budget split  
 8. **4-week content calendar**  
-9. **Measurement framework** — reach, CTR, CPA, ROAS and reporting cadence  
+9. **Measurement framework**  reach, CTR, CPA, ROAS and reporting cadence  
 
 ## Key targets (indicative, first 3–6 months)
 
@@ -50,7 +50,7 @@ PlayBloom Toys links play with creativity, learning and skill development. The s
 - Marketing KPI design (reach, engagement, CTR, CPA, ROAS)  
 - Reporting and optimization cadence  
 
-## Portfolio description (for CV)
+
 
 **PlayBloom Social Media Strategy | Marketing Analytics**  
 Designed a full social media and paid social strategy for a children’s toy brand: platform roles, content examples, funnel-based ad structure, sample calendar, and a KPI framework covering awareness, engagement, traffic, sales and efficiency.
